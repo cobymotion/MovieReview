@@ -91,7 +91,7 @@ public class DescriptionMovie extends AppCompatActivity {
                     (this,movie.getIdDrawable()));
             else
                 Picasso.with(this).load(RetroInterfaceWs.url + movie.getPathImg()).into(background);
-            txtComments.setText(movie.getComments());
+            txtComments.setText(movie.getComments().replace('#','\n'));
             txtSynopsis.setText(movie.getPlot());
         }
     }
