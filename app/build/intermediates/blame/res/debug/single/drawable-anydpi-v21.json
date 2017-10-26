@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/luiscobian/Desktop/ExampleITNY/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_popcorn.xml",
+        "source": "/Users/luiscobian/Desktop/ExampleITNY/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_popcorn.xml"
+    },
+    {
+        "merged": "/Users/luiscobian/Desktop/ExampleITNY/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/luiscobian/.android/build-cache/59294cedcea7c02eeacd00988c93297273b23c8f/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/luiscobian/Desktop/ExampleITNY/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/luiscobian/.android/build-cache/59294cedcea7c02eeacd00988c93297273b23c8f/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

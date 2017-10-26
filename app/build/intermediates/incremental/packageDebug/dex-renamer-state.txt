@@ -1,0 +1,7 @@
+#Wed Oct 25 20:45:27 CDT 2017
+base.0=/Users/luiscobian/Desktop/ExampleITNY/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3cf224a12d0f38c2796340f161e557ecc804d838
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/luiscobian/Desktop/ExampleITNY/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46a3c1eea52acda492a8e442351c20ddd9640feb/classes.dex
+base.1=/Users/luiscobian/Desktop/ExampleITNY/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46a3c1eea52acda492a8e442351c20ddd9640feb
+file.0=/Users/luiscobian/Desktop/ExampleITNY/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3cf224a12d0f38c2796340f161e557ecc804d838/classes.dex
